@@ -1,0 +1,1 @@
+module square-sso-grpc
