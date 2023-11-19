@@ -1,4 +1,4 @@
-module pmishkevich/square-sso-grpc
+module github.com/pmishkevich/square-sso-grpc
 
 go 1.21.4
 
